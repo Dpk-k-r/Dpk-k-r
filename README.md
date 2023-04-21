@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dpk-k-r
-- 👀 I’m interested in CAE
-- 🌱 I’m currently learning developing
-- 💞️ I’m looking to collaborate on computation
+- 💞️ I’m looking to collaborate on numerical computation
 - 📫 How to reach me krdeepak96@yahoo.co.in
 
 <!---
